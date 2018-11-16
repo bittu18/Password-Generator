@@ -1,5 +1,3 @@
-# Password-Generator
-it's important to protect information online ,and in this project i will create password generator
-so we have an idea how to create a password 
-
-
+PASSWORD-GENERATOR!✔✔✔✔✔
+it's important to protect your personal information online .and in this project you'll create a program to generate password for you
+the password will be random,so no one will be able to guess them!
